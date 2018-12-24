@@ -1,0 +1,24 @@
+.header {
+    background: var(--off-black);
+    font-size: 40px;
+    padding: 1px;
+}
+
+.header__title {
+    color: white;
+	margin: 0;
+}
+
+.header__nav {
+	float: right;
+	padding: 5px;
+}
+
+.header__nav:link {
+	color: var(--dark-blue);
+}
+.selected {
+	cursor: default;
+}
+
+

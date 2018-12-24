@@ -1,0 +1,39 @@
+.option {
+	margin-left: 50px;
+	font-size: 20px;
+	clear: both;
+	height: 130px;
+}
+
+.option__count {
+	color: var(--purple);
+	float: left;
+}
+
+.option__text-header {
+	float: left;
+	margin-left: 20px;
+}
+
+.option__text {
+	color: var(--light-blue);
+}
+
+.option__button {
+	margin-left: 50px;
+	background: var(--purple);
+    border: none;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+}
+
+.option__button:focus {
+	outline: none;
+}
+
+.option__button:hover {
+	color: var(--dark-blue);
+	cursor: pointer;
+	box-shadow: 3px -3px #888888;
+}
