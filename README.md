@@ -1,6 +1,6 @@
 # Tap your Beer
 
-Goal: The application is developed to tap your beer from Huge Beer database provided by https://bruvue.com
+Goal: The application is developed to tap your beer from Huge Beer database
 
 # Implement MVC Design Pattern to structure the web application.
 
